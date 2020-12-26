@@ -29,7 +29,17 @@
 .packages
 .pub-cache/
 .pub/
-/build/
+/build/app/generated
+/build/app/intermediates
+/build/app/kotlin
+/build/kotlin
+/build/app/outputs/apk
+/build/app/outputs/flutter-apk/app.apk
+/build/app/outputs/flutter-apk/app.apk.sha1
+/build/app/outputs/logs
+/build/app/outputs/mapping
+/build/app/reports
+/build/app/tmp
 
 # Web related
 lib/generated_plugin_registrant.dart
